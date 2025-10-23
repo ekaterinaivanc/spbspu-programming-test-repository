@@ -1,6 +1,5 @@
 #include <iostream>
-
-int main ()
+main()
 {
   std::cout << "ivantsova.ekaterina\n";
 }
